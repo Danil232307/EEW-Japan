@@ -1,0 +1,30 @@
+{
+	"botmasters": [ "797027469571522561" ],
+	"token": "27fb5b817dbef1bcc418724d12bb5d3421215e35feaf0fa5b097f2caae7598bc",
+	"prefix": "%y ",
+	"niedImageTempPath": "temp/",
+	"niedImageLocalPath": "/var/www/html/yukari/nied/",
+	"niedImagePublicPath": "https://example.com/yukari/nied/",
+	"emojiMap": {
+		"1": "<:shindo1:emoji_id>",
+		"2": "<:shindo2:emoji_id>",
+		"3": "<:shindo3:emoji_id>",
+		"4": "<:shindo4:emoji_id>",
+		"5-": "<:shindo5lower:emoji_id>",
+		"5+": "<:shindo5upper:emoji_id>",
+		"6-": "<:shindo6lower:emoji_id>",
+		"6+": "<:shindo6upper:emoji_id>",
+		"7": "<:shindo7:emoji_id>"
+	},
+	"messageIcons": {
+		"low": "Message Icons Path",
+		"medium": "Message Icons Path",
+		"high": "Message Icons Path"
+	},
+	"yukariCache": "yukari_cache/",
+	"yukariTempPath": "temp/",
+	"presence": {
+		"action": "WATCHING",
+		"game": "for earthquakes"
+	}
+}
